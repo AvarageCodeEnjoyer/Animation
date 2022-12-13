@@ -7,7 +7,7 @@
 body    
     {
         background-color: rgb(255, 255, 255);
-        background-image: url(stairs.jpg);
+        background-image: url(stairs1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: -10px;
@@ -18,7 +18,7 @@ body
 .walkPanda
     {
         margin-top: 450px;
-        background-image: url(pandeez_nutz.png);
+        background-image: url(pandeez1.png);
         width: 250px;
         height: 350px;
         /* margin-bottom: -100px; */
